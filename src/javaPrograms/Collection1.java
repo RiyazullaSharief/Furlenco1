@@ -29,7 +29,7 @@ public class Collection1 {
 //		System.out.println(list.addAll(2, list1));
 //		list.forEach(lst->System.out.println(lst));
 //		list.forEach(System.out::println);
-//		Object fg = list.clone();
+//		Object oc = list.clone();
 //		System.out.println(fg);
 //		System.out.println(list);
 //		list.forEach(System.out::println);

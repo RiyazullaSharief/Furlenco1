@@ -16,7 +16,7 @@ public class Randm
 			//System.out.println(num1+"-"+num2+"-"+num3);
 			System.out.println("+91 "+"9"+num1+num2+num3);
 		}
-		Long l = (long)(Math.random()*10);
+		Long l=(long)(Math.random()*10);
 		System.out.println(l);
 	}
 }

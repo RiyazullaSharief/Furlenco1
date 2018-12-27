@@ -1,10 +1,7 @@
 package javaPrograms;
-
-import java.util.HashSet;
 import java.util.LinkedHashSet;
-
-public class Collection3 {
-
+public class Collection3
+{
 	public static void main(String[] args)
 	{
 		LinkedHashSet lst=new LinkedHashSet();
@@ -16,5 +13,4 @@ public class Collection3 {
 		System.out.println("===================");
 		lst.forEach(lt->System.out.println(lt));
 	}
-
 }
