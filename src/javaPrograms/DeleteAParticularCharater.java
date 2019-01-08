@@ -1,12 +1,7 @@
 package javaPrograms;
-
-import java.util.Set;
-import java.util.TreeSet;
-
 public class DeleteAParticularCharater
 {
 	static String s="deleteduplicate";
-//	static String s3="";
 	public static void run(String str,int index)
 	{
 		String s1=str.substring(0,index);
